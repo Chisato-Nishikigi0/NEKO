@@ -19,9 +19,13 @@ You need OpenAI API key to use GPT-4. Qwen1.5 is open-source, and you need GPU t
 ## Prepare Python environment and download dependencies 
 Please install latest Python.
 
-Run these command in CMD or bash to install dependencies. (You need to clone this repo and navigate to the folder on your disk)
+For CUDA version newer than 12.0, run this command in CMD or bash to install dependencies. (You need to clone this repo and navigate to the folder on your disk)
 
 ```pip install -r requirements.txt```
+
+For CUDA version 11.x, please use this command
+
+```pip install -r requirements_cuda11.txt```
 
 ## Quick start
 We prepared some working examples as jupyter notebooks. If you have not setup LLM and wish to try NEKO, we also prepared some text data processed by LLM.
