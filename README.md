@@ -28,4 +28,7 @@ For CUDA version 11.x, please use this command
 ```pip install -r requirements_cuda11.txt```
 
 ## Quick start
+
+We provide jupyter notebooks for quick start. Please see Module 1 and Module 2.
+
 We prepared some working examples as jupyter notebooks. If you have not setup LLM and wish to try NEKO, we also prepared some text data processed by LLM.
