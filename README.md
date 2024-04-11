@@ -32,3 +32,5 @@ For CUDA version 11.x, please use this command
 We provide jupyter notebooks for quick start. Please see Module 1 and Module 2.
 
 We prepared some working examples as jupyter notebooks. If you have not setup LLM and wish to try NEKO, we also prepared some text data processed by LLM.
+
+You can also chat with our NEKO helper on ChatGPT to get help! https://chat.openai.com/g/g-GME1vadzR-neko-helper
